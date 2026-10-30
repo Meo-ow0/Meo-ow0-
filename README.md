@@ -48,7 +48,7 @@ Currently working on a study app, RAG features and open-source contributions.
 
 ## Say hi
 
-[LinkedIn](https://www.linkedin.com/in/REPLACE-ME) · [Email](mailto:REPLACE-ME@example.com)
+[LinkedIn](https://www.linkedin.com/in/shreya-8ab04536b/)
 
 <div align="center">
 
