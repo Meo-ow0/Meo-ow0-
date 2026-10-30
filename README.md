@@ -28,10 +28,6 @@ Currently working on a study app, RAG features and open-source contributions.
 | Project | What it does | Stack |
 |---|---|---|
 | **[Mochi Notes](https://github.com/Meo-ow0/HelloMochii)** | Study planner, notes and AI helper for university students | FastAPI, SQLite, JavaScript |
-| **[Academic Risk Analyzer](https://github.com/Meo-ow0/REPLACE-REPO-NAME)** | Predicts academic risk from student data | Python, pandas, scikit-learn |
-| **[AI Companion](https://github.com/Meo-ow0/REPLACE-REPO-NAME)** | Conversational assistant built on LLM APIs | Python, LLM APIs |
-| **[Library DB System](https://github.com/Meo-ow0/REPLACE-REPO-NAME)** | Library management with a relational database | SQL, Python |
-| **[Antivirus Detector](https://github.com/Meo-ow0/REPLACE-REPO-NAME)** | Hash-signature file scanner | Python |
 
 ## Learning right now
 
